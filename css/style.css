@@ -120,3 +120,76 @@ army green: 41521F;
 .third-image-section img{
 	border:11px solid #F5FFE2;
 }
+
+/*FOURTH-SECTION*/
+
+.fourth-section{
+	background-image: url(../img/all.jpg);
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
+.fourth-text-section{
+	margin-top: 90px;
+    color: white;
+    text-shadow: -1px 1px rgba(0,0,0,0.5);
+}
+
+/* FIFTH-SECTION */
+
+.fifth-section{
+	background-color: white;
+	text-align: center;
+	color:#A89F68;;
+}
+
+.fifth-section h2{
+    margin-top: 70px;
+}
+
+.fifth-section .text-center i{
+	margin-top: 50px;
+}
+
+.fifth-section .text-center p{
+	color: grey;
+	margin-bottom: 110px;
+}
+
+/* SIXTH SECTION */
+
+.sixth-section{
+	background-color: #A89F68;
+	text-align: center;
+}
+.sixth-section .precio{
+    color: white;
+    font-size: 78px;
+    margin-top: 50px;
+}
+
+.sixth-section h2{
+	color: #41521F;
+	margin-top: 70px;
+}
+.sixth-section .precio p{
+    display: inline-block;
+    font-size: 17px;
+}
+
+.sixth-section .precio .signo-peso{
+	margin-top: -10px;
+}
+.text-uppercase{
+	 text-transform: uppercase;
+}
+
+.grey-text{
+	color: #333333;
+}
+
+.sixth-section .boton-seccion-seis{
+	margin-bottom: 60px;
+}
