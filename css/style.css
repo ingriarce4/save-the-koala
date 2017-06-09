@@ -2,3 +2,121 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+/* FIRST SECTION */
+*{
+	margin:0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+.firts-background{
+    background: url('../img/portada.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    background-color: transparent;
+    border: none;
+}
+
+.navbar-brand a{
+	color: white;
+	font-weight: 400;
+}
+
+.navbar-brand:hover{
+	color: rgba(238, 238, 238,0.4);
+}
+.navbar a{
+	color: white;
+	font-weight: 300;
+}
+
+.text-izq{
+    padding: 150px 0;
+    color: white;
+ 	width: 65%;
+}
+.text-izq p{
+	font-weight: 300;
+}
+
+.boton-verde{
+    background-color: #41521F ;
+    color: white;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+/* SECOND SECTION */
+
+.first{
+    width: 100%;
+    margin-top: 64px;
+    margin-bottom: 50px;
+}
+
+.text-der {
+	margin-top: 120px;
+}
+
+.text-der h5{
+	font-weight: 300;
+}
+
+.text-der h2{
+	color: #A89F68;
+}
+
+.text-der p{
+	color: black;
+}
+
+.text-2 a{
+	color: #A89F68;
+}
+
+.second-section .text-der .text-2{
+    padding-left: 0;
+    margin-top: 11px;
+    padding-right: 20px;
+}
+.second-section .text-der .text-2 h5{
+    font-weight: 500;
+    color: #A89F68;
+    font-size: 20px;
+}
+
+/* THIRD-SECTION*/
+
+.third-section{
+	background-color: #A89F68;
+}
+
+.third-section .container .third-text-section{
+    margin-top: 70px;
+}
+
+.third-text-section h5 , p{
+	color: white;
+	font-weight: 400;
+}
+
+.third-text-section h3{
+	color: #41521F;
+}
+.btn-read{
+    background-color: #41521F ;
+    color: white;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.third-image-section{
+	margin-top: 20px;
+}
+
+.third-image-section img{
+	border:11px solid #F5FFE2;
+}
